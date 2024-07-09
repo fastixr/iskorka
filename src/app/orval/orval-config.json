@@ -1,0 +1,8 @@
+{
+    "schemas": {
+      "Tickets": {
+        "output": "types/tickets.ts",
+        "input": "openapi/tickets.yaml"
+      }
+    }
+  }  
